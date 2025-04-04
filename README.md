@@ -32,7 +32,7 @@
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/aman5438/github-readme-stats">
+<a href="https://github.com/aman5438/aman5438/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aman5438&repo=github-readme-stats&theme=buefy" />
 </a>
 <p align="center">
