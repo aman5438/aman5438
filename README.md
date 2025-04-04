@@ -28,7 +28,7 @@
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
 <code><img height="20" alt="rspec" src="https://raw.githubusercontent.com/github/explore/master/topics/rspec/rspec.png"></code>
-<code><img height="20" alt="github actions" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png"></code>
+<code><img height="20" alt="github actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="20" alt="sidekiq" src="https://raw.githubusercontent.com/github/explore/master/topics/sidekiq/sidekiq.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
