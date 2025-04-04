@@ -1,6 +1,8 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Your Aman Agrawal</h1>
+<p align="center"><a href="https://github.com/aman5438"><img width="80%" alt="Hi 👋, I'm Your Aman Agrawal" src="./assets/gh-readme-header.png" /></a></p>
 <h3 align="center">🚀 Ruby on Rails Developer | 🛠 Backend Engineer | 💡 Tech Explorer</h3>
+
 
 <!-- GitHub Stats Card -->
 <p align="center">
