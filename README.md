@@ -32,6 +32,9 @@
 
 ### 📈 GitHub Stats
 
+<a href="https://github.com/aman5438/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aman5438&repo=github-readme-stats&theme=buefy" />
+</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman5438&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aman5438&theme=radical&hide_border=true" />
