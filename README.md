@@ -22,13 +22,16 @@
 
 ### 🛠 Tech Stack
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-red?style=for-the-badge&logo=ruby)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png"></code>
+<code><img height="20" alt="rails" src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="20" alt="rspec" src="https://raw.githubusercontent.com/github/explore/master/topics/rspec/rspec.png"></code>
+<code><img height="20" alt="github actions" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" alt="sidekiq" src="https://raw.githubusercontent.com/github/explore/master/topics/sidekiq/sidekiq.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ---
 
