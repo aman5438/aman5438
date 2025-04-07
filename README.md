@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 3+ years of experience in **Ruby on Rails**
-- 🧪 Skilled in **RSpec**, **FactoryBot**, and test-driven development
-- 🧰 Worked with **APIs, background jobs (Sidekiq)**, and 3rd-party integrations
-- 🌱 Currently learning **System Design** and **Performance Optimization**
-- ⚡ Fun fact: I love debugging and automating boring stuff
+-  3+ years of experience in **Ruby on Rails**
+-  Skilled in **RSpec**, **FactoryBot**, and test-driven development
+-  Worked with **APIs, background jobs (Sidekiq)**, and 3rd-party integrations
+-  Currently learning **System Design** and **Performance Optimization**
+-  Fun fact: I love debugging and automating boring stuff
 
 ---
 
