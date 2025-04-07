@@ -38,8 +38,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman5438&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman5438&theme=radical&hide_border=true" />
+  <a href="https://github.com/aman5438"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman5438&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/aman5438"><img src="https://github-readme-streak-stats.herokuapp.com?user=aman5438&theme=radical&hide_border=true" /></a>
 </p>
 
 ---
